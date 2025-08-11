@@ -1,0 +1,36 @@
+.navbar-brand img {
+  width: 100px;
+}
+
+.site-feature__img {
+  width: 60px;
+}
+
+.other-header {
+  margin-top: 100px;
+}
+
+.subscribe {
+  background-image: url("./image/background.png");
+  background-position: center;
+  background-size: cover;
+}
+
+.brand-icon img {
+  width: 120px;
+  margin-left: -22px;
+}
+
+.copy-right {
+  background-color: #000;
+}
+
+.blur-filter {
+  backdrop-filter: blur(8px);
+  background-color: rgba(155, 158, 161, 0.347);
+}
+
+.faq-header {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
